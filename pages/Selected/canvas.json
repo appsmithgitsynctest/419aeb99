@@ -4178,7 +4178,6 @@
           ],
           [
             {
-              "id": "Selected_getCustomer",
               "name": "getCustomer",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
